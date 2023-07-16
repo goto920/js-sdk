@@ -1,3 +1,10 @@
+# Fork by goto@kmgoto.jp
+
+自分用に修正を開始 (2023年7月17日)
+
+ - まずはそのままで動作確認
+ - 目標: SDPでOpusパラメータ指定
+
 # SkyWay JS-SDK
 
 このリポジトリは、2023 年 1 月 31 日にリリースされた SkyWay の JavaScript SDK です。旧 SkyWay の JavaScript SDK とは互換性がありません。
