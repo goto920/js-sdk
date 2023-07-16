@@ -44,7 +44,8 @@ export async function createLicenses() {
   }
 
   await $`rm -rf node_modules`;
-  await $`rm package-lock.json`;
+  // await $`rm package-lock.json`;
+  await $`rm -f package-lock.json`; // KG
 
   return output;
 }
